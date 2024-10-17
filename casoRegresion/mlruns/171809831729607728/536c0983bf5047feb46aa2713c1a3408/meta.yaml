@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/536c0983bf5047feb46aa2713c1a3408/artifacts
+end_time: 1729208244953
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: 536c0983bf5047feb46aa2713c1a3408
+run_name: Passive Aggressive Regressor
+run_uuid: 536c0983bf5047feb46aa2713c1a3408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208244196
+status: 3
+tags: []
+user_id: Anime

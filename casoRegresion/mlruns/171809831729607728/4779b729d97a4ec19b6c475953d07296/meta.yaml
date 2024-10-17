@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/4779b729d97a4ec19b6c475953d07296/artifacts
+end_time: 1729208248949
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: 4779b729d97a4ec19b6c475953d07296
+run_name: AdaBoost Regressor
+run_uuid: 4779b729d97a4ec19b6c475953d07296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208248846
+status: 3
+tags: []
+user_id: Anime

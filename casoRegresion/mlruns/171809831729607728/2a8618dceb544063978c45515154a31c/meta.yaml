@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/2a8618dceb544063978c45515154a31c/artifacts
+end_time: 1729208246519
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: 2a8618dceb544063978c45515154a31c
+run_name: Lasso Least Angle Regression
+run_uuid: 2a8618dceb544063978c45515154a31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208246413
+status: 3
+tags: []
+user_id: Anime
