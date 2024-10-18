@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/609ddf61d26a43aebe0c7347ca00c24e/artifacts
+end_time: 1729208841826
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: 609ddf61d26a43aebe0c7347ca00c24e
+run_name: Light Gradient Boosting Machine
+run_uuid: 609ddf61d26a43aebe0c7347ca00c24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208841699
+status: 3
+tags: []
+user_id: Anime

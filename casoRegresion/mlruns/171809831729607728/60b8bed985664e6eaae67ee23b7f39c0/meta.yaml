@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/60b8bed985664e6eaae67ee23b7f39c0/artifacts
+end_time: 1729208841601
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: 60b8bed985664e6eaae67ee23b7f39c0
+run_name: Dummy Regressor
+run_uuid: 60b8bed985664e6eaae67ee23b7f39c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208841497
+status: 3
+tags: []
+user_id: Anime

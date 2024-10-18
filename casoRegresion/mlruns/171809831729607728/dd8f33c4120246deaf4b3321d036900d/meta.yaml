@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/dd8f33c4120246deaf4b3321d036900d/artifacts
+end_time: 1729208838988
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: dd8f33c4120246deaf4b3321d036900d
+run_name: Huber Regressor
+run_uuid: dd8f33c4120246deaf4b3321d036900d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208838719
+status: 3
+tags: []
+user_id: Anime

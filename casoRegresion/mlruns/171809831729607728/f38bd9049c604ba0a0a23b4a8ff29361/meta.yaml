@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Anime/Desktop/cientifica/casoRegresion/mlruns/171809831729607728/f38bd9049c604ba0a0a23b4a8ff29361/artifacts
+end_time: 1729208819305
+entry_point_name: ''
+experiment_id: '171809831729607728'
+lifecycle_stage: active
+run_id: f38bd9049c604ba0a0a23b4a8ff29361
+run_name: K Neighbors Regressor
+run_uuid: f38bd9049c604ba0a0a23b4a8ff29361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729208819205
+status: 3
+tags: []
+user_id: Anime
